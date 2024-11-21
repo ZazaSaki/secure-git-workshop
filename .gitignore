@@ -22,6 +22,8 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 
+config.ini
+
 ### CMake Patch ###
 # External projects
 *-prefix/
