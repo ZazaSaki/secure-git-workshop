@@ -47,8 +47,8 @@ Skip item 3. Install requirements.
 
 Download and install VirtualBox and Vagrant:    
 ```
-www.virtualbox.org/wiki/Downloads
-www.vagrantup.com/downloads
+https://www.virtualbox.org/wiki/Downloads
+https://www.vagrantup.com/downloads
 ```
 
 Start the vagrant box with:
